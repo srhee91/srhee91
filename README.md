@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sang.
 - 👀 I’m interested in web programming.
 - 🌱 I’m currently learning Spring Framework.
-- 📫 How to reach me @leesy579@gmail.com.
+- 📫 You can reach me @leesy579@gmail.com.
 - link to my [Notion!](https://www.notion.so/sangrhee/Sang-s-External-Brain-Memory-0a978326d820420c99187da914340b66)
 
 <!---
