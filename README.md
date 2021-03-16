@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @srhee91
-- 👀 I’m interested in object-oriented architecting.
+- 👋 Hi, I’m Sang.
+- 👀 I’m interested in web programming.
 - 🌱 I’m currently learning Spring Framework.
 - 📫 How to reach me @leesy579@gmail.com.
-- https://www.notion.so/sangrhee/Sang-s-External-Brain-Memory-0a978326d820420c99187da914340b66
+- [link to my Notion!](https://www.notion.so/sangrhee/Sang-s-External-Brain-Memory-0a978326d820420c99187da914340b66)
 
 <!---
 srhee91/srhee91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
