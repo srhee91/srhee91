@@ -4,6 +4,12 @@
 - link to my [Notion.](https://www.notion.so/sangrhee/Sang-s-External-Brain-Memory-0a978326d820420c99187da914340b66)
 - [Follow my notes on AI and office workflows on X](https://x.com/SangTheRhee).
 
+## A small AI workflow exercise
+
+[The source says Thursday. The draft says Tuesday.](experiments/ai-draft-source-check/)
+
+A fictional email, a deliberately wrong draft and a worked correction. Check five factual claims against their exact source sentences, then reuse the prompt on your own example.
+
 <!---
 srhee91/srhee91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

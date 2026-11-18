@@ -1,0 +1,78 @@
+{
+  "exercise": "ai-draft-source-check",
+  "source": "fictional",
+  "incorrectDraft": "deliberately_injected_errors",
+  "claimRowsReviewedByAgent": 5,
+  "checks": [
+    {
+      "check": "source_quote_day",
+      "passed": true
+    },
+    {
+      "check": "draft_claim_day",
+      "passed": true
+    },
+    {
+      "check": "corrected_claim_day",
+      "passed": true
+    },
+    {
+      "check": "source_quote_time",
+      "passed": true
+    },
+    {
+      "check": "draft_claim_time",
+      "passed": true
+    },
+    {
+      "check": "corrected_claim_time",
+      "passed": true
+    },
+    {
+      "check": "source_quote_delivery",
+      "passed": true
+    },
+    {
+      "check": "draft_claim_delivery",
+      "passed": true
+    },
+    {
+      "check": "corrected_claim_delivery",
+      "passed": true
+    },
+    {
+      "check": "source_quote_substitute_pickup",
+      "passed": true
+    },
+    {
+      "check": "draft_claim_substitute_pickup",
+      "passed": true
+    },
+    {
+      "check": "corrected_claim_substitute_pickup",
+      "passed": true
+    },
+    {
+      "check": "source_quote_location",
+      "passed": true
+    },
+    {
+      "check": "corrected_claim_location",
+      "passed": true
+    },
+    {
+      "check": "planted_claim_removed_Tuesday",
+      "passed": true
+    },
+    {
+      "check": "planted_claim_removed_will be delivered",
+      "passed": true
+    },
+    {
+      "check": "planted_claim_removed_without calling",
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "scope": "Literal quote existence and fixture text consistency only. Agent review supplied the meaning judgments. No model accuracy, exhaustive semantic correctness or time-saving result is measured."
+}

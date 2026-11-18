@@ -1,0 +1,45 @@
+{
+  "provenance": "Fictional source and deliberately wrong draft. Codex agent reviewed claims and wrote the corrected draft in this session. The meaning judgments are agent review, not an automated semantic score.",
+  "claims": [
+    {
+      "field": "day",
+      "draftClaim": "Tuesday",
+      "sourceQuote": "Your signed packet will be ready Thursday after 2 pm.",
+      "finding": "changed",
+      "explanation": "Tuesday replaces Thursday.",
+      "correctedClaim": "Thursday"
+    },
+    {
+      "field": "time",
+      "draftClaim": "at 2 pm",
+      "sourceQuote": "Your signed packet will be ready Thursday after 2 pm.",
+      "finding": "changed",
+      "explanation": "An exact time replaces an after-time condition.",
+      "correctedClaim": "after 2 pm"
+    },
+    {
+      "field": "delivery",
+      "draftClaim": "will be delivered",
+      "sourceQuote": "No delivery has been arranged.",
+      "finding": "unsupported_commitment",
+      "explanation": "The source establishes that no delivery has been arranged.",
+      "correctedClaim": "No delivery has been arranged."
+    },
+    {
+      "field": "substitute_pickup",
+      "draftClaim": "Anyone may collect it without calling.",
+      "sourceQuote": "If someone else is collecting it, call us before sending them.",
+      "finding": "condition_reversed",
+      "explanation": "The requirement to call before sending a substitute has been removed.",
+      "correctedClaim": "If someone else is collecting it, call us before sending them."
+    },
+    {
+      "field": "location",
+      "draftClaim": null,
+      "sourceQuote": "Please collect it at the front desk.",
+      "finding": "omitted_instruction",
+      "explanation": "The pickup location is missing from the draft.",
+      "correctedClaim": "at the front desk"
+    }
+  ]
+}

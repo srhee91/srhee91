@@ -1,0 +1,16 @@
+Check this draft only against the supplied source.
+
+For each date, time, action, condition and commitment:
+1. Copy the draft's claim.
+2. Quote the exact source sentence that supports or conflicts with it.
+3. Mark changed meaning, missing instructions and unsupported commitments.
+4. Rewrite the draft using only supported information.
+
+If the source does not establish something, leave it unknown.
+Return the claim table, then the corrected draft.
+
+SOURCE:
+[paste source]
+
+DRAFT:
+[paste draft]
