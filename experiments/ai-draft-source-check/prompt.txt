@@ -1,13 +1,33 @@
-Check this draft only against the supplied source.
+Review DRAFT against the supplied SOURCE only.
 
-For each date, time, action, condition and commitment:
-1. Copy the draft's claim.
-2. Quote the exact source sentence that supports or conflicts with it.
-3. Mark changed meaning, missing instructions and unsupported commitments.
-4. Rewrite the draft using only supported information.
-
-If the source does not establish something, leave it unknown.
-Return the claim table, then the corrected draft.
+1. Split compound sentences into individual factual claims. Keep each complete
+   claim's conditions, dates, time limits, exceptions and commitments. Do not
+   remove a qualifier while splitting, or let one supported part validate the
+   whole sentence.
+2. Give each complete claim exactly one finding:
+   - Supported: the supplied source directly establishes the complete claim.
+   - Contradicted: the supplied source explicitly conflicts with the claim.
+   - Not established: the supplied source neither establishes nor contradicts it.
+3. For Supported or Contradicted, quote the exact source passage establishing
+   the finding, with enough surrounding context to preserve its meaning.
+   For Not established, write "No establishing or contradicting passage" and
+   quote relevant source context if there is any. Context is not proof of an
+   unstated detail. Never invent a quotation.
+4. Keep missing details unknown. Do not fill gaps with assumptions, common
+   knowledge or outside information. Missing information is not evidence that
+   something is false. An explicit conditional rule can be Supported while
+   whether its condition has been completed is Not established. Do not turn
+   "only after confirmation" into either "allowed now" or "not confirmed yet."
+5. Return a table with these columns:
+   Complete claim | Finding | Exact source | Unknown | Rewrite
+   In Unknown, name the missing detail, or say no missing detail is needed for
+   this finding. In Rewrite, retain only source-supported meaning and all its
+   qualifiers; leave an unestablished detail unknown rather than inventing a
+   positive or negative fact.
+6. Separately list any source-supported instruction omitted from the draft.
+   An omitted instruction is not itself an unsupported factual claim.
+7. Then return a corrected draft using only supported information and
+   instructions. Preserve conditions and uncertainty; add no new commitment.
 
 SOURCE:
 [paste source]
