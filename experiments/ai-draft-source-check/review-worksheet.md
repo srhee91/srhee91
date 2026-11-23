@@ -62,3 +62,7 @@ The worksheet is an agent-authored worked review, not a new model run, test
 result, accuracy measurement or guarantee. The preserved `verify.py` checks only
 the original packet fixtures; it does not validate this prompt or worksheet's
 meaning judgments.
+
+---
+
+[Follow copyable AI office-work checks on X](https://x.com/SangTheRhee).
