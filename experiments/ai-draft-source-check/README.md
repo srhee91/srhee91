@@ -22,6 +22,17 @@ and [the correction](corrected-draft.txt).
 | Anyone may collect it without calling. | If someone else is collecting it, call us before sending them. | The condition is reversed |
 | No pickup location | Please collect it at the front desk. | An instruction is omitted |
 
+## Did the reply answer both questions?
+
+Fictional event brief: The workshop is online.
+
+> **Sender:** Is the workshop online? Will there be a recording?  
+> **Draft reply:** Yes, the workshop is online.
+
+The draft answers the first question. The brief says nothing about a recording, so leave that answer open: “Yes, the workshop is online. I don't know yet whether there will be a recording.”
+
+[Copy the question-by-question email review prompt on X](https://x.com/SangTheRhee/status/2117440476580090244).
+
 ## What changed after reader feedback
 
 This revision applies two comments from one reader,
